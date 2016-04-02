@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java Café</string>
+    <string name="Toast1">Você não pode pedir menos que 1 café</string>
+    <string name="Toast100">Você não pode pedir mais que 100 cafés</string>
+    <string name="name">Nome</string>
+    <string name="order">Pedido</string>
+    <string name="orderSummary1">Nome: </string>
+    <string name="orderSummary2">\nAdd Chantilly ? Sim senhor!</string>
+    <string name="orderSummary3">\nAdd Chantilly ? Não obrigado!</string>
+    <string name="orderSummary4">\nChocolate ? Sim senhor!</string>
+    <string name="orderSummary5">\nChocolate ? Não obrigado!</string>
+    <string name="orderSummary6">\nQuantidade: </string>
+    <string name="orderSummary7">\nTotal: R$</string>
+    <string name="orderSummary8">\nObrigado!</string>
+    <string name="qty">Quantidade</string>
+    <string name="tp1">Chantilly</string>
+    <string name="tp2">Chocolate</string>
+    <string name="tpTitle">Adicionais</string>
+    <string name="Intent">Pedido de Just Java Café para</string>
+    <string name="Invoice">Nota Fiscal</string>
+    <string name="sendGmail">Send to Gmail</string>
+</resources>

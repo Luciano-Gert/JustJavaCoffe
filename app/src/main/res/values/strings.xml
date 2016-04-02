@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">Name</string>
+    <string name="tpTitle">Toppings</string>
+    <string name="tp1">Whipped Cream</string>
+    <string name="tp2">Chocolate</string>
+    <string name="qty">Quantity</string>
+    <string name="order">Order</string>
+    <string name="Toast100">You  cannot have more than 100 coffees</string>
+    <string name="Toast1">You  cannot have less than 1 coffee</string>
+    <string name="orderSummary1">Name: </string>
+    <string name="orderSummary2">\nAdd Whipped Cream ? Yes Sir!</string>
+    <string name="orderSummary3">\nAdd Whipped Cream ? No Thanks!</string>
+    <string name="orderSummary4">\nAdd Chocolate ? Yes Sir!</string>
+    <string name="orderSummary5">\nAdd Chocolate ? No Thanks!</string>
+    <string name="orderSummary6">\nQuantity: </string>
+    <string name="orderSummary7">\nTotal: $</string>
+    <string name="orderSummary8">\nThank You!</string>
+    <string name="Intent">Just Java order to</string>
+    <string name="Invoice">Invoice</string>
+    <string name="sendGmail">Send to Gmail</string>
+</resources>
