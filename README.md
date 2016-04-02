@@ -1,7 +1,7 @@
 # JustJavaCoffee - English
 JustJava Coffe app made to train my android developing skills.
 
-This is a modified version of the app Just Java made on "Android for Beginners" course of Udacity.
+This is a modified version of the app Just Java made on "Android for Beginners" course for Udacity.
 The course doesn’t include many activitiy’s on the lessons, so the student only learns how to make apps with one screen. I made this version to learn how to do that. 
 I simply add a new activity to show an Invoice screen with the order message and called the Gmail app from a button on this new screen.
 
